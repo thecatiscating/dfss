@@ -28,6 +28,9 @@ title: Your awesome title
 email: your-email@domain.com
 author: GitHub User
 remote_theme: "jeffreytse/jekyll-theme-yat"
+- name: Jekyll Deploy Action
+  uses: jeffreytse/jekyll-deploy-action@v0.3.1
+
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
